@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Card Shuffler</string>
+    <string name="shuffel">Shuffle</string>
+    <string name="title">Aplikasi Pengacak Kartu Domino</string>
+</resources>
